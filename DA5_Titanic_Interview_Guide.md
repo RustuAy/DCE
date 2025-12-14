@@ -210,8 +210,6 @@ df['Age'] = df['Age'].fillna(df['Age'].median())
 ---
 
 ## Son Söz
-"Bu rehberi takip ederek hem pratik bir proje yapmış olacağım, hem de staj mülakatlarında sıkça sorulan soruları cevaplarken DA-5 yapı taşı gibi kullanabileceğim kısa, mantıklı argümanlara sahip olacağım. Bir adım tamamlanınca bana söyle; sıradaki adımda örneğin `Age` eksikleri ile pratik yapalım veya basit model pipeline'ını detaylandıralım." 
+"Bu rehberi takip ederek hem pratik bir proje yapmış olacağım, hem de staj mülakatlarında sıkça sorulan soruları cevaplarken DA-5 yapı taşı gibi kullanabileceğim kısa, mantıklı argümanlara sahip olacağım.
 
 ---
-
-_Eğer istersen bu rehberi `3-Titanic.ipynb` içinde etkileşimli hücrelere (her adımın sonunda "Mülakat soruları" ve "Kısa cevapım") olarak da ekleyebilirim — devam etmemi ister misin? (E/H)"
